@@ -12,16 +12,17 @@ I audit smart contracts and build the systems around them: DeFi protocols, cross
 
 | High findings | Medium findings | Solo medium | Top-10 finishes | First place |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | **30** | **1** | **5** | **1** |
+| **32** | **32** | **1** | **5** | **1** |
 
-**61 high/medium findings · 22 paid contest results · 13 top-25 finishes.** Combined Sherlock and Code4rena record, checked September 10, 2026. [Verify the results →](https://audits.sherlock.xyz/watson/rsam_eth)
+**64 high/medium findings · 23 paid contest results · 14 top-25 finishes.** Combined Sherlock, Code4rena, and Cantina record, checked September 10, 2026. Sources: [Sherlock + Code4rena](https://audits.sherlock.xyz/watson/rsam_eth) · [Cantina](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694/leaderboard).
 
 - **1st — vVv Launchpad:** token-claim authorization and front-running vulnerability.
 - **5th — Mellow Flexible Vaults:** one high and one solo medium finding.
 - **5th — Lambo.win:** three high and two medium findings.
 - **9th — Yield Basis** and **9th — Althea Liquid Infrastructure**.
+- **16th — Superform Core / Cantina:** one high and two medium findings in the May–June 2025 competition. [Final leaderboard →](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694/leaderboard)
 
-I compete as **rsam_eth** on Sherlock and **rouhsamad** on Code4rena, and also participate on Cantina. [Contest results and selected findings →](https://github.com/rohallah12/audits)
+I compete as **rsam_eth** on Sherlock, **rouhsamad** on Code4rena, and **MclSmd / Rsameth** on Cantina. [Contest results and selected findings →](https://github.com/rohallah12/audits)
 
 ## What I work on
 
